@@ -1,4 +1,4 @@
-###Fraud Investigation Case Study
+Fraud Investigation Case Study
 🔎 Overview
 
 This project simulates a real-world fraud investigation to identify behavioral patterns associated with fraudulent transactions and develop a risk-based detection strategy.
