@@ -1,4 +1,5 @@
 Fraud Investigation Case Study 🔎
+
 Overview
 
 This project simulates a real-world fraud investigation aimed at identifying behavioral and contextual patterns associated with fraudulent transactions.
@@ -6,6 +7,7 @@ This project simulates a real-world fraud investigation aimed at identifying beh
 Using transaction-level data, the analysis focuses on understanding how fraudulent transactions differ from legitimate ones and translating these insights into practical risk-based monitoring strategies. Rather than focusing on predictive modeling, the project emphasizes fraud investigation, behavioral analysis, and risk interpretation.
 
 🎯 Key Outcomes
+
 Identified the strongest behavioral and contextual fraud indicators
 Investigated how fraud differs from legitimate transaction behaviour
 Developed a rule-based risk scoring approach to prioritize suspicious transactions
@@ -13,6 +15,7 @@ Concentrated a large proportion of fraud within the high-risk category to improv
 Proposed practical fraud monitoring and risk control recommendations
 
 📊 Key Insights
+
 Fraud is rare (~1.5%), making targeted detection strategies essential
 Fraud is primarily driven by behavioral patterns rather than demographic characteristics
 High transaction velocity is one of the strongest fraud indicators
@@ -24,6 +27,7 @@ Fraud risk varies across merchant categories rather than being evenly distribute
 The project follows a structured fraud investigation workflow:
 
 Exploratory Data Analysis (EDA)
+
 Fraud pattern identification
 Behavioral and contextual risk analysis
 Development of a simple rule-based risk scoring framework
@@ -55,6 +59,7 @@ Seaborn
 Jupyter Notebook
 
 📁 Project Structure
+
 fraud-investigation-case-study
 │
 ├── data
