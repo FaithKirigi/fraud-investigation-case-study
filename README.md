@@ -11,12 +11,14 @@ Investigated how fraud differs from legitimate transaction behaviour
 Developed a rule-based risk scoring approach to prioritize suspicious transactions
 Concentrated a large proportion of fraud within the high-risk category to improve investigation efficiency
 Proposed practical fraud monitoring and risk control recommendations
+
 📊 Key Insights
 Fraud is rare (~1.5%), making targeted detection strategies essential
 Fraud is primarily driven by behavioral patterns rather than demographic characteristics
 High transaction velocity is one of the strongest fraud indicators
 Location mismatch and foreign transactions significantly increase fraud risk
 Fraud risk varies across merchant categories rather than being evenly distributed
+
 🚨 Investigation Approach
 
 The project follows a structured fraud investigation workflow:
@@ -26,6 +28,7 @@ Fraud pattern identification
 Behavioral and contextual risk analysis
 Development of a simple rule-based risk scoring framework
 Validation of risk categories using fraud distribution
+
 🧠 Risk-Based Interpretation
 
 To support practical fraud investigation, a rule-based risk scoring system was developed using the strongest fraud indicators identified during the analysis, including:
@@ -50,6 +53,7 @@ Pandas
 Matplotlib
 Seaborn
 Jupyter Notebook
+
 📁 Project Structure
 fraud-investigation-case-study
 │
@@ -58,6 +62,7 @@ fraud-investigation-case-study
 ├── images
 ├── report
 └── README.md
+
 💡 Business Impact
 
 This project demonstrates how fraud investigation insights can be translated into practical risk controls that support:
@@ -66,6 +71,7 @@ Faster identification of high-risk transactions
 Reduced manual review workload
 More efficient fraud monitoring processes
 Improved prioritization of suspicious activity
+
 👩‍💻 Author
 
 Faith Kirigi
